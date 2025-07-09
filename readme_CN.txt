@@ -8,8 +8,8 @@ python haptic.py --batch
 python haptic.py input.ogg output.ogg
 需要安装的依赖
  pip install mutagen
-    一定要先把音频转成48khz 网站https://www.ezyzip.com/cn-mp3-48kHz.html#
-然后再转换成.ogg格式文件！！！
+    一定要先把音频转成48khz
+然后再转换成.ogg格式文件放入文件夹中注入，否则会因重采样而变调！！！
 
 By YuzakiPTeam@2025
 第一次这种程序 有问题请您反馈和谅解
